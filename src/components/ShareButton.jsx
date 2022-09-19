@@ -11,7 +11,7 @@ export const ShareButton = ({equasionName, val1, val2}) => {
     }, [val1, val2, globalState])
 
     const buttonClicked = () =>{
-        let url = `${window.location.hostname}?eq=${equasionName}&val1=${val1}&val2=${val2}&sf=${globalState.significantFigures}`;
+        let url = `${window.location.href}?eq=${equasionName}&val1=${val1}&val2=${val2}&sf=${globalState.significantFigures}`;
         navigator.clipboard.writeText(url);
         setIsCopied(true);
     }
