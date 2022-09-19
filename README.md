@@ -1,5 +1,7 @@
 # Percentage Calculator
 
+### Live at https://samjhooker.github.io/Percentage-Calculator/
+
 #### A simple and shareable calculator app, created over a few days in the effort to learn more about Functional React with Hooks.
 
 Based on React 17 using plain CSS and JS
