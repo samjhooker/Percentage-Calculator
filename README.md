@@ -14,5 +14,5 @@ Designed to work responsively across all devices
 
 And it has darkmode
 
-<img width="1078" alt="image" src="https://user-images.githubusercontent.com/7506157/191013424-3329a0db-0c49-4be4-a3c8-6be8386c40ae.png">
+<img width="1499" alt="image" src="https://user-images.githubusercontent.com/7506157/191014386-44234dbb-ed3b-4dd2-a057-05eb52247d50.png">
 
