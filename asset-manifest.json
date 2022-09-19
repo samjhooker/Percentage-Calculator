@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Percentage-Calculator/static/css/main.4fa6085b.css",
+    "main.js": "/Percentage-Calculator/static/js/main.a5ca30a2.js",
+    "index.html": "/Percentage-Calculator/index.html",
+    "main.4fa6085b.css.map": "/Percentage-Calculator/static/css/main.4fa6085b.css.map",
+    "main.a5ca30a2.js.map": "/Percentage-Calculator/static/js/main.a5ca30a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa6085b.css",
+    "static/js/main.a5ca30a2.js"
+  ]
+}
