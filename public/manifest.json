@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Centi - The Percentage Calculator",
+  "name": "Calculate any percentage with Centi",
   "icons": [
     {
       "src": "favicon.ico",
