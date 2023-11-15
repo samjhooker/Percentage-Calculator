@@ -29,6 +29,11 @@ body {
   color: var(--font-color);
 }
 
+::selection {
+  background-color: #9aceff; 
+  color: #0055A3;
+}
+
 body.darkmode {
   --font-color: #EFFFFE;
   --font-color-hovered: #e8fefc;
